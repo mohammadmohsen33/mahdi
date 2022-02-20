@@ -1,5 +1,6 @@
 pandas
 streamlit
 matplotlib-inline
+matplotlib
 plotly
 numpy
