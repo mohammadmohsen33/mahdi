@@ -1,6 +1,6 @@
 pandas
 streamlit
-matplotlib-inline
-matplotlib
+matplotlib==3.5.1
+matplotlib-inline==0.1.3
 plotly
 numpy
